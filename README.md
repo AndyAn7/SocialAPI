@@ -4,7 +4,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
 
-[GitHub Repo](https://github.com/AndyAn7/SocialAPI#crit)
+[GitHub Repo](https://github.com/AndyAn7/SocialAPI)
 ## Table Of Contents
 - [Description](#description)
 
