@@ -1,0 +1,23 @@
+{
+  "name": "socialapi",
+  "version": "1.0.0",
+  "description": "A social networking application where users can post, view, and comment on users' thoughts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyAn7/SocialAPI.git"
+  },
+  "author": "Andrew An",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyAn7/SocialAPI/issues"
+  },
+  "homepage": "https://github.com/AndyAn7/SocialAPI#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
