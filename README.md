@@ -20,7 +20,7 @@
 
 ## [Description](#description)
 <a name="description"></a>
-
+A social networking application where users can post, view, and comment on users' thoughts.
 
 ## [Code](#code)
 <a name="code"></a>
