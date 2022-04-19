@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://socialapi-uw.herokuapp.com/)
 
 [GitHub Repo](https://github.com/AndyAn7/SocialAPI)
 ## Table Of Contents
