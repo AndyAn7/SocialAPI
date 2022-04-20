@@ -48,7 +48,8 @@ const thoughtS = new Schema({
     },
 
     reactions: [reactS],
-        }, 
+        },
+        
     {
         toJSON: {
             virtuals: true,
