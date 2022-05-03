@@ -1,6 +1,6 @@
 const { connect, connection } = require('mongoose');
 
-const stringX = 'mongodb+srv://AndyRooh:Ghengis01!@clustone.ugmya.mongodb.net/test'
+const stringX = process.env.MONGODB_URI || 'mongodb://localhost/socialapi';
 
 connect(stringX,
     {
