@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "email": "admin@admin.com"
+        },
+        {
+            "username": "user",
+            "email": "user@user.com"
+        },
+        {
+            "username": "chippy",
+            "email": "chippyslip@dip.com"
+        },
+        {
+            "username": "quazi",
+            "email": "modo@yolo.com"
+        }
+    ],
+    "thoughts": [
+        {
+            "thoughtText": "I'm so sick of trying to keep this weight off; I just want so me funkin' ICE CREAM!",
+            "username": "chippy"
+        },
+        {
+            "thoughtText": "Players gon' play because they can't take anything seriously.",
+            "username": "quazi"
+        },
+        {
+            "thoughtText": "Charlie stinks, bro. Getting tired of it.",
+            "username": "admin",
+            "reactions": [
+                {
+                    "reactionText": "Yeah, and you still won't DO nothin' about it.",
+                    "username": "user"
+                }
+            ]
+        },
+        {
+            "thoughtText": "I'm deleting my account rn....Helooooo? Anyone listening? I said I'm going to delete my account!",
+            "username": "quazi",
+            "reactions": [
+                {
+                    "reactionText": "I'm not deleting my account, I'm just going to hide my account so you chase me.",
+                    "username": "chippy"
+                },
+                {
+                    "reactionText": "That was real lame, guhrl.",
+                    "username": "user"
+                }
+            ]
+        }
+    ]
+}
