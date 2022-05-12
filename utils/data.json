@@ -19,33 +19,33 @@
     ],
     "thoughts": [
         {
-            "thoughtText": "I'm so sick of trying to keep this weight off; I just want so me funkin' ICE CREAM!",
+            "thoughtText": "I just want some ICE CREAM!",
             "username": "chippy"
         },
         {
-            "thoughtText": "Players gon' play because they can't take anything seriously.",
+            "thoughtText": "Hershey is coming out with a new chocolate bar!",
             "username": "quazi"
         },
         {
-            "thoughtText": "Charlie stinks, bro. Getting tired of it.",
+            "thoughtText": "I prefer white chocolate over dark chocolate",
             "username": "admin",
             "reactions": [
                 {
-                    "reactionText": "Yeah, and you still won't DO nothin' about it.",
+                    "reactionText": "Yeah, same here",
                     "username": "user"
                 }
             ]
         },
         {
-            "thoughtText": "I'm deleting my account rn....Helooooo? Anyone listening? I said I'm going to delete my account!",
+            "thoughtText": "How much bone mass does a human lose over their lifetime? So, what about in space?I wonder",
             "username": "quazi",
             "reactions": [
                 {
-                    "reactionText": "I'm not deleting my account, I'm just going to hide my account so you chase me.",
+                    "reactionText": "I think humans lose way more bone mass in space because of the lack of gravity",
                     "username": "chippy"
                 },
                 {
-                    "reactionText": "That was real lame, guhrl.",
+                    "reactionText": "Yeah, the bones have less use due to their being lighter so physiologically they lose their mass quicker than when on Earth",
                     "username": "user"
                 }
             ]
