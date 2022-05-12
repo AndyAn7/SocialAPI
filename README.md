@@ -22,9 +22,9 @@ A social networking application where users can post, view, and comment on users
 
 ## [Code](#code)
 <a name="code"></a>
+- Javascript
 - Express
 - MongoDB
-- MongoODM
 
 ## [Tutorial](#tutorial)
 <a name="mockup"></a>
