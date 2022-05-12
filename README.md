@@ -2,15 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://socialapi-uw.herokuapp.com/)
-
 [GitHub Repo](https://github.com/AndyAn7/SocialAPI)
 ## Table Of Contents
 - [Description](#description)
 
 - [Code](#code)
 
-- [Mockup](#mockup)
+- [Tutorial](#tutorial)
 
 - [User Story](#user)
 
@@ -24,12 +22,13 @@ A social networking application where users can post, view, and comment on users
 
 ## [Code](#code)
 <a name="code"></a>
+- Express
+- MongoDB
+- MongoODM
 
-
-## [MockUp](#mockup)
+## [Tutorial](#tutorial)
 <a name="mockup"></a>
-<!-- ![image](https://github.com/AndyAn7/Express-Note-Taker/blob/main/images/one.png?raw=true)
-![image](https://github.com/AndyAn7/Express-Note-Taker/blob/main/images/two.png?raw=true) -->
+[![Tutorial](https://github.com/AndyAn7/SocialAPI/blob/main/assets/mockupSS.png?raw=true)](https://www.youtube.com/watch?v=G7OC7tvVprA&t=4s)
 
 ## [User Story](#user)
 <a name="user"></a>
